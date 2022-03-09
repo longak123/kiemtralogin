@@ -40,9 +40,9 @@ namespace kiemtralogin
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(73, 50);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(57, 13);
+            this.label1.Size = new System.Drawing.Size(84, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "UserName";
+            this.label1.Text = "Tên Đăng Nhập";
             // 
             // txtUserName
             // 
@@ -56,9 +56,9 @@ namespace kiemtralogin
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(73, 102);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(50, 13);
+            this.label2.Size = new System.Drawing.Size(53, 13);
             this.label2.TabIndex = 0;
-            this.label2.Text = "MatKhau";
+            this.label2.Text = "Mật Khẩu";
             // 
             // txtmatkhau
             // 
