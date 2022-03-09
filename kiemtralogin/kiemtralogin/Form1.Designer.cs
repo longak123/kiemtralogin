@@ -74,7 +74,7 @@ namespace kiemtralogin
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(75, 23);
             this.login.TabIndex = 2;
-            this.login.Text = "Login";
+            this.login.Text = "Đăng Nhập";
             this.login.UseVisualStyleBackColor = true;
             // 
             // Form1
